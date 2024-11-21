@@ -18,5 +18,8 @@ You try generating new automatic weights from the skeleton onto the armor but it
 The skirt looks better but its clipping everwhere. Ideally you can pick exactly which weights you want from each bind. With my tool you can!
 
 
-![blendCropped](https://github.com/user-attachments/assets/22bde36d-13ae-40e7-805c-aedc00e394f8)
 ![mask](https://github.com/user-attachments/assets/ffd453f2-fe47-4d34-9baa-7a8c2d5832cf)
+![blendCropped](https://github.com/user-attachments/assets/22bde36d-13ae-40e7-805c-aedc00e394f8)
+
+
+Big thank you to Ben Flight from the think procedural discord for letting me help him on this. 
